@@ -1,2 +1,2 @@
 # calculate
-manipulation in ur hand
+manipulation in your hand
